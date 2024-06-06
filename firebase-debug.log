@@ -63,3 +63,113 @@ You're about to initialize a Firebase project in this directory:
 [info] 
 [info] +  Success! Logged into GitHub as okunlade-oluwafemi 
 [info] 
+[debug] [2024-06-06T21:22:57.615Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2024-06-06T21:22:59.944Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 404
+[debug] [2024-06-06T21:22:59.944Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2024-06-06T21:23:17.285Z] >>> [apiv2][query] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key type=owner
+[debug] [2024-06-06T21:23:18.405Z] <<< [apiv2][status] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key 404
+[debug] [2024-06-06T21:23:18.405Z] <<< [apiv2][body] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2024-06-06T21:25:14.322Z] >>> [apiv2][query] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key type=owner
+[debug] [2024-06-06T21:25:15.547Z] <<< [apiv2][status] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key 404
+[debug] [2024-06-06T21:25:15.548Z] <<< [apiv2][body] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2024-06-06T21:26:59.653Z] >>> [apiv2][query] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key type=owner
+[debug] [2024-06-06T21:27:01.242Z] <<< [apiv2][status] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key 404
+[debug] [2024-06-06T21:27:01.242Z] <<< [apiv2][body] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2024-06-06T21:27:10.979Z] >>> [apiv2][query] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key type=owner
+[debug] [2024-06-06T21:27:12.110Z] <<< [apiv2][status] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key 404
+[debug] [2024-06-06T21:27:12.110Z] <<< [apiv2][body] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2024-06-06T21:27:14.258Z] >>> [apiv2][query] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key type=owner
+[debug] [2024-06-06T21:27:14.787Z] <<< [apiv2][status] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key 404
+[debug] [2024-06-06T21:27:14.787Z] <<< [apiv2][body] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2024-06-06T21:27:18.614Z] >>> [apiv2][query] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key type=owner
+[debug] [2024-06-06T21:27:19.050Z] <<< [apiv2][status] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key 404
+[debug] [2024-06-06T21:27:19.051Z] <<< [apiv2][body] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2024-06-06T21:27:43.011Z] >>> [apiv2][query] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key type=owner
+[debug] [2024-06-06T21:27:45.754Z] <<< [apiv2][status] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key 404
+[debug] [2024-06-06T21:27:45.754Z] <<< [apiv2][body] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2024-06-06T21:28:31.087Z] >>> [apiv2][query] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key type=owner
+[debug] [2024-06-06T21:28:32.192Z] <<< [apiv2][status] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key 404
+[debug] [2024-06-06T21:28:32.193Z] <<< [apiv2][body] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2024-06-06T21:28:35.904Z] >>> [apiv2][query] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key type=owner
+[debug] [2024-06-06T21:28:36.388Z] <<< [apiv2][status] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key 404
+[debug] [2024-06-06T21:28:36.389Z] <<< [apiv2][body] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2024-06-06T21:28:36.910Z] >>> [apiv2][query] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key type=owner
+[debug] [2024-06-06T21:28:37.478Z] <<< [apiv2][status] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key 404
+[debug] [2024-06-06T21:28:37.478Z] <<< [apiv2][body] GET https://api.github.com/repos/https://github.com/okunlade-oluwafemi/episode1_vs1.1/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
